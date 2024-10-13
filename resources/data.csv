@@ -1,0 +1,11 @@
+StudentID,Gender,MathScore,ReadingScore,WritingScore,Lunch,TestPrepCourse
+1,Female,72,72,74,Standard,Completed
+2,Female,69,90,88,Free/Reduced,None
+3,Female,90,95,93,Standard,None
+4,Male,47,57,44,Standard,None
+5,Male,76,78,75,Free/Reduced,None
+6,Female,71,83,78,Free/Reduced,None
+7,Female,88,95,92,Standard,None
+8,Male,40,43,39,Standard,Completed
+9,Male,64,64,67,Free/Reduced,None
+10,Female,38,60,50,Standard,None
