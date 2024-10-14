@@ -1,0 +1,11 @@
+StudentID,Gender,MathScore,ReadingScore,WritingScore,Lunch,TestPrepCourse,AverageScore
+3,Female,90,95,93,Standard,,92.66666666666667
+7,Female,88,95,92,Standard,,91.66666666666667
+2,Female,69,90,88,Free/Reduced,,82.33333333333333
+6,Female,71,83,78,Free/Reduced,,77.33333333333333
+5,Male,76,78,75,Free/Reduced,,76.33333333333333
+1,Female,72,72,74,Standard,Completed,72.66666666666667
+9,Male,64,64,67,Free/Reduced,,65.0
+4,Male,47,57,44,Standard,,49.333333333333336
+10,Female,38,60,50,Standard,,49.333333333333336
+8,Male,40,43,39,Standard,Completed,40.666666666666664
